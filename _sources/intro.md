@@ -15,5 +15,8 @@ And here is a code block:
 hola mi nombre es erick y estoy en ubuntu
 e = mc^2
 ```
+pagina 1
+pagina 2
+pagina 3
 
 Check out the content pages bundled with this sample book to see more.
